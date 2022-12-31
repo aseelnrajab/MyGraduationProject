@@ -1,7 +1,6 @@
 Bee Delivery
 
-We inspired the name from the bee, as the bee has organized work, and that's the purpose of our application, which is regulating the relations between delivery companies, their employees, electronic stores, and parcel delivery.
-In addition, the process of the bee work is fast, and this is what is required of the parcel delivery process to be delivered as quickly as possible.
+Is an application that regulates the relations between delivery companies, their employees, electronic stores, and parcel delivery. In addition, the process of the bee work is fast, and this is what is required of the parcel delivery process to be delivered as quickly as possible, we inspired it's name from the bee because it's known for its organized work, which is the main purpose of our app.
 
  Built by Flutter Technology, Firebase.
  #my_role: 
