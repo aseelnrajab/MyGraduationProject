@@ -1,16 +1,13 @@
-# beedelivery
+Bee Delivery
 
-A new Flutter project.
+We inspired the name from the bee, as the bee has organized work, and that's the purpose of our application, which is regulating the relations between delivery companies, their employees, electronic stores, and parcel delivery.
+In addition, the process of the bee work is fast, and this is what is required of the parcel delivery process to be delivered as quickly as possible.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Built by Flutter Technology, Firebase.
+ #my_role: 
+ 
+ 1- Designed all the UI screens and dealt with all the widgets inside.
+ 2- Connected this application with Flutter Firebase:
+ a. Firebase Authentication 
+ b. Firebase Database.
+ 
